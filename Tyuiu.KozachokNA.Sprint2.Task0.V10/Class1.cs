@@ -2,7 +2,7 @@
 
 namespace Tyuiu.KozachokNA.Sprint2.Task0.V10.Lib
 {
-    public class DataService: ISprint2Task0V10
+    public class DataService : ISprint2Task0V10
     {
         public bool[] GetCompareOperations(int a, int b)
         {
