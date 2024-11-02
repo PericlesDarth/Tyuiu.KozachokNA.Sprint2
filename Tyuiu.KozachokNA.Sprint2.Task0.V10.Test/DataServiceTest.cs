@@ -3,7 +3,7 @@ using Tyuiu.KozachokNA.Sprint2.Task0.V10.Lib;
 namespace Tyuiu.KozachokNA.Sprint2.Task0.V10.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class DataServiceTest
     {
         [TestMethod]
         public void TestMethod1()

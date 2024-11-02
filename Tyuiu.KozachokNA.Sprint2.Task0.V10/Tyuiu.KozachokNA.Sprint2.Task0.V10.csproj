@@ -11,4 +11,10 @@
     <ProjectReference Include="..\Tyuiu.KozachokNA.Sprint2.Task0.V10.Lib\Tyuiu.KozachokNA.Sprint2.Task0.V10.Lib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
