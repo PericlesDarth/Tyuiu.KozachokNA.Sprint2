@@ -1,8 +1,8 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint2;
 
-namespace Tyuiu.KozachokNA.Sprint2.Task0.Lib
+namespace Tyuiu.KozachokNA.Sprint2.Task0.V10.Lib
 {
-    public class Class1: ISprint2Task0V10
+    public class DataService: ISprint2Task0V10
     {
         public bool[] GetCompareOperations(int a, int b)
         {
