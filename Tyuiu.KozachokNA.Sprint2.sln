@@ -3,9 +3,40 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{F1C31BCB-C25C-4262-BD82-4650A5F2DE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozachokNA.Sprint2.Task0.Lib", "Tyuiu.KozachokNA.Sprint2.Task0.Lib\Tyuiu.KozachokNA.Sprint2.Task0.Lib.csproj", "{8EE04F23-ED85-4451-8F02-65AD4361AF2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{8EDD4A4F-4C59-4560-8575-B8589582DD16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{63D37BF3-7427-43EE-8883-3980539607E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{BB33BCB4-BB46-43CC-97FA-9610C38B38C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{030B0659-4571-4E0F-B2FC-0F4EA4EB6A99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{155ED4C5-E0E2-4B4A-B585-C75EC666EFA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{C2E72404-EA35-4D91-990F-7C376E13F140}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{28549974-234D-429E-95B1-192C5007DAB6}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE04F23-ED85-4451-8F02-65AD4361AF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE04F23-ED85-4451-8F02-65AD4361AF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE04F23-ED85-4451-8F02-65AD4361AF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE04F23-ED85-4451-8F02-65AD4361AF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8EE04F23-ED85-4451-8F02-65AD4361AF2A} = {8EDD4A4F-4C59-4560-8575-B8589582DD16}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {789DC3EA-8CB3-4EB6-9316-430DD8B5615D}
