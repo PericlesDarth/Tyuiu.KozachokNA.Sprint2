@@ -14,6 +14,7 @@ namespace Tyuiu.KozachokNA.Sprint2.Task0.V10.Lib
             result[4] = a <= b;
             result[5] = a >= b;
             return result;
+            //some text
         }
     }
 }
