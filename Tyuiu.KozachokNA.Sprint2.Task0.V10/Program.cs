@@ -11,8 +11,10 @@ namespace Tyuiu.KozachokNA.Sprint2.Task0.V10
             DataService dataService = new DataService();
 
             bool[] foo = dataService.GetCompareOperations(a, b);
-            Console.Write(foo);
-
+            foreach (bool flag in foo)
+            {
+                Console.WriteLine(flag);
+            }
             Console.ReadKey();
         }
     }
